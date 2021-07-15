@@ -7,7 +7,7 @@
 ### my social media accounts
 
 [<img align="left" alt="Cangozler" width="22px" img src="https://img.icons8.com/material-outlined/24/000000/twitter.png"/>[Twitter]]
-[<img align="left" alt="Cangozler" width="22px" img src="https://img.icons8.com/ios/16/000000/instagram.png"/>[instagram]: https://www.instagram.com/can.gozler]
+[<img align="left" alt="Cangozler" width="22px" img src="https://img.icons8.com/ios/16/000000/instagram.png"/>[instagram]]
 [<img align="left" alt="Cangozler" width="22px" img src="https://img.icons8.com/ios/50/000000/steam.png"/>[Steam]]
 
 ### Languages and tryin learned 
