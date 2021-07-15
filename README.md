@@ -6,12 +6,9 @@
 
 ### my social media accounts
 
-<a href ="https://twitter.com/Anlam_Filozofu" target="_blank"> <img align="left" alt="Cangozler" width="22px" alt=Twitter img src="https://img.icons8.com/material-outlined/24/000000/twitter.png">
-  
-  
-  
-<img align="left" alt="Cangozler" width="22px" img src="https://img.icons8.com/ios/16/000000/instagram.png">instagram
-<img align="left" alt="Cangozler" width="22px" img src="https://img.icons8.com/ios/50/000000/steam.png">Steam
+<a href ="https://twitter.com/Anlam_Filozofu" target="blank"> <img align="left" alt="Cangozler" width="22px" alt=Twitter img src="https://img.icons8.com/material-outlined/24/000000/twitter.png">
+<a href="https://www.instagram.com/can.gozler/" target="blank"> <img align="left" alt="Cangozler" width="22px" img src="https://img.icons8.com/ios/16/000000/instagram.png">
+<a href ="https://steamcommunity.com/id/TheHonorKnight" target="blank"> <img align="left" alt="Cangozler" width="22px" img src="https://img.icons8.com/ios/50/000000/steam.png">
 
 ### Languages and tryin learned 
 
@@ -26,7 +23,3 @@
 <img align="left" alt="illustrator" width="26px" img src="https://img.icons8.com/ios-glyphs/24/000000/adobe-illustrator.png">
 <img align="left" alt="photoshop " width="26px" img src="https://img.icons8.com/material-outlined/24/000000/adobe-photoshop.png">
 <img align="left" alt=" after effects" width="26px" img src="https://img.icons8.com/ios-glyphs/30/000000/adobe-after-effects.png">
-
-
-[Twitter]: https://twitter.com/Anlam_Filozofu
-[Steam]: https://steamcommunity.com/id/TheHonorKnight
