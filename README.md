@@ -6,7 +6,7 @@
 
 ### my social media accounts
 
-<a href ="https://twitter.com/Anlam_Filozofu"> <img align="left" alt="Cangozler" width="22px" alt=Twitter img src="https://img.icons8.com/material-outlined/24/000000/twitter.png">
+<a href ="https://twitter.com/Anlam_Filozofu" target="_blank"> <img align="left" alt="Cangozler" width="22px" alt=Twitter img src="https://img.icons8.com/material-outlined/24/000000/twitter.png">
   
   
   
