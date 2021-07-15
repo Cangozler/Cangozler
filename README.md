@@ -22,7 +22,7 @@
 [<img align="left" alt="css" width="26px" img src="https://img.icons8.com/material-outlined/24/000000/css.png">]
 [<img align="left" alt="illustrator" width="26px" img src="https://img.icons8.com/ios-glyphs/24/000000/adobe-illustrator.png">]
 [<img align="left" alt="photoshop " width="26px" img src="https://img.icons8.com/material-outlined/24/000000/adobe-photoshop.png">]
-[<img align="left" alt=" after effects" width="26px" img src="https://img.icons8.com/ios-glyphs/30/000000/adobe-after-effects.png">]
+<img align="left" alt=" after effects" width="26px" img src="https://img.icons8.com/ios-glyphs/30/000000/adobe-after-effects.png">
 
 
 [Twitter]: https://twitter.com/Anlam_Filozofu
