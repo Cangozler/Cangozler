@@ -6,7 +6,7 @@
 
 ### my social media accounts
 
-[<img align="left" alt="Cangozler" width="22px" src="C:/Users/filoz/Desktop/i/tw.png"/>[Twitter]]
+[<img align="left" alt="Cangozler" width="22px" img src="https://img.icons8.com/office/16/000000/twitter.png"/>[Twitter]]
 [<img align="left" alt="Cangozler" width="22px" src="C:/Users/filoz/Desktop/i/in.png"/>[instagram]]
 [<img align="left" alt="Cangozler" width="22px" src="C:/Users/filoz/Desktop/i/st.png"/>[Steam]]
 
