@@ -1,16 +1,16 @@
-### Hi there I'm "CAN" 👋
+###  👋 Hi there I'm "CAN" 👋
 
 👀 I’m currently Focus everything <br>
 🎯 2022 Goals: Learned js,c#,unity graduated and getting good job <br>
 🧰 Fun fact: HEAVY METAKLL !! and basketball 🏀
 
-### my social media accounts
+### 🧨 My social media accounts
 
 <a href ="https://twitter.com/Anlam_Filozofu" target="blank"> <img align="left" alt="Cangozler" width="22px" alt=Twitter img src="https://img.icons8.com/material-outlined/24/000000/twitter.png">
 <a href="https://www.instagram.com/can.gozler/" target="blank"> <img align="left" alt="Cangozler" width="22px" img src="https://img.icons8.com/ios/16/000000/instagram.png">
 <a href ="https://steamcommunity.com/id/TheHonorKnight" target="blank"> <img align="left" alt="Cangozler" width="22px" img src="https://img.icons8.com/ios/50/000000/steam.png">
 
-### Languages and tryin learned 
+### 🌋 Languages and tryin learned 
 
 <img align="left" alt="python" width="26px" img src="https://img.icons8.com/ios/50/000000/python--v1.png">
 <img align="left" alt="sql" width="26px" img src="https://img.icons8.com/material-rounded/24/000000/sql.png">
