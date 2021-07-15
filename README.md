@@ -2,7 +2,7 @@
 
 👀 I’m currently Focus everything <br>
 🎯 2022 Goals: Learned js,c#,unity graduated and getting good job <br>
-🧰 Fun fact: HEAVY METAKLL !! and basketball 🏀
+🧰 Fun fact: HEAVY METALL !! and basketball 🏀
 
 ### 🧨 My social media accounts
 
