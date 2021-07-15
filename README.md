@@ -9,7 +9,8 @@
 <a href ="https://twitter.com/Anlam_Filozofu" target="blank"> <img align="left" alt="Cangozler" width="22px" alt=Twitter img src="https://img.icons8.com/material-outlined/24/000000/twitter.png">
 <a href="https://www.instagram.com/can.gozler/" target="blank"> <img align="left" alt="Cangozler" width="22px" img src="https://img.icons8.com/ios/16/000000/instagram.png">
 <a href ="https://steamcommunity.com/id/TheHonorKnight" target="blank"> <img align="left" alt="Cangozler" width="22px" img src="https://img.icons8.com/ios/50/000000/steam.png">
-
+<br>
+ 
 ### 🌋 Languages and tryin learned <br>
 
 <img align="left" alt="python" width="26px" img src="https://img.icons8.com/ios/50/000000/python--v1.png">
