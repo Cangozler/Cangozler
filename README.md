@@ -11,7 +11,7 @@
 <a href ="https://steamcommunity.com/id/TheHonorKnight" target="blank"> <img align="left" alt="Cangozler" width="22px" img src="https://img.icons8.com/ios/50/000000/steam.png">
 <br>
  
-### 🌋 Languages and tryin learned <br>
+### ⌨️ Languages and tryin learned <br>
 
 <img align="left" alt="python" width="26px" img src="https://img.icons8.com/ios/50/000000/python--v1.png">
 <img align="left" alt="sql" width="26px" img src="https://img.icons8.com/material-rounded/24/000000/sql.png">
