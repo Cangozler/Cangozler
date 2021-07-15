@@ -2,9 +2,9 @@
 
 👀 I’m currently Focus everything <br>
 🎯 2022 Goals: Learned js,c#,unity graduated and getting great job <br>
-🧰 Fun fact: HEAVY METALL !! and basketball 🏀
+⚡ Fun fact: HEAVY METALL !! and basketball 🏀
 
-### 🧨 My social media accounts
+### ☑️ My social media accounts
 
 <a href ="https://twitter.com/Anlam_Filozofu" target="blank"> <img align="left" alt="Cangozler" width="22px" alt=Twitter img src="https://img.icons8.com/material-outlined/24/000000/twitter.png">
 <a href="https://www.instagram.com/can.gozler/" target="blank"> <img align="left" alt="Cangozler" width="22px" img src="https://img.icons8.com/ios/16/000000/instagram.png">
