@@ -1,7 +1,7 @@
 ###  👋 Hi there I'm "CAN" 👋
 
 👀 I’m currently Focus everything <br>
-🎯 2022 Goals: Learned js,c#,unity graduated and getting good job <br>
+🎯 2022 Goals: Learned js,c#,unity graduated and getting great job <br>
 🧰 Fun fact: HEAVY METALL !! and basketball 🏀
 
 ### 🧨 My social media accounts
