@@ -5,7 +5,7 @@
 ⚡ Fun fact: HEAVY METALL !! and basketball 🏀
 
 ### ☑️ My social media accounts
-<a href ="cangzlr23@gmail.com" targer="blank"> <img align="left" alt="Cangozler" width="30px" alt=Gmail img src="">
+#<a href ="cangzlr23@gmail.com" targer="blank"> <img align="left" alt="Cangozler" width="30px" alt=Gmail img src="">
 <a href ="https://twitter.com/Anlam_Filozofu" target="blank"> <img align="left"  width="22px" alt=Twitter img src="https://image.flaticon.com/icons/png/512/733/733579.png">
 <a href="https://www.instagram.com/can.gozler/" target="blank"> <img align="left" alt="Cangozler" width="22px" img src="https://img.icons8.com/ios/16/000000/instagram.png">
 <a href ="https://steamcommunity.com/id/TheHonorKnight" target="blank"> <img align="left" alt="Cangozler" width="22px" img src="https://img.icons8.com/ios/50/000000/steam.png">
