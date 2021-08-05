@@ -2,6 +2,7 @@
 
 👀 I’m currently Focus everything <br>
 🎯 2022 Goals: Learned js,c#,unity graduated and getting great job <br>
+🧑‍🎓I am studying at Iskenderun Technical Universıty
 ⚡ Fun fact: HEAVY METALL !! and basketball 🏀
 
 ### ☑️ My social media accounts
