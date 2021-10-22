@@ -18,7 +18,7 @@
 <img  align="left" alt="python" width="26px" img src="https://image.flaticon.com/icons/png/512/919/919852.png">
 <img align="left" alt="sql" width="26px" img src="https://image.flaticon.com/icons/png/512/2772/2772123.png">
 <img align="left" alt="vs" width="26px" img src="https://img.icons8.com/ios-filled/50/000000/visual-basic.png">
-<img align="left" alt="ccc" width="26px" img src=src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="left" width="26px" img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="ccc">
 <img align="left" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png" alt="PHP"/>
 <img align="left" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/java-22-225997.png" alt="Java"/>
 <img align="left" alt="c++" width="26px" img src="https://image.flaticon.com/icons/png/512/919/919841.png">
