@@ -21,7 +21,7 @@
 <img align="left" alt="c#" width="26px" img src="https://image.flaticon.com/icons/png/512/381/381704.png">
 <img align="left" alt="c++" width="26px" img src="https://image.flaticon.com/icons/png/512/919/919841.png">
 <img align="left" alt="js" width="26px" img src="https://image.flaticon.com/icons/png/512/1199/1199124.png">
-<img align="left" alt="html" width="26px" img src="https://image.flaticon.com/icons/png/512/1051/1051277.png">
+<img align="left" alt="html" width="26px" img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <img align="left" alt="css" width="26px" img src="https://image.flaticon.com/icons/png/512/732/732190.png">
 <img align="left" alt="illustrator" width="26px" img src="https://image.flaticon.com/icons/png/512/552/552222.png">
 <img align="left" alt="photoshop " width="26px" img src="https://image.flaticon.com/icons/png/512/552/552220.png">
