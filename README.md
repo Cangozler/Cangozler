@@ -26,5 +26,5 @@
 <img align="left" alt="illustrator" width="26px" img src="https://image.flaticon.com/icons/png/512/552/552222.png">
 <img align="left" alt="photoshop " width="26px" img src="https://image.flaticon.com/icons/png/512/552/552220.png">
 <img align="left" alt=" after effects" width="26px" img src="https://image.flaticon.com/icons/png/512/552/552226.png">
- 
+ ### UUU SOME FANS <br>
 ![](https://komarev.com/ghpvc/?username=Cangozler&label=PROFILE+VIEWS) 
