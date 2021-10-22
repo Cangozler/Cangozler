@@ -15,7 +15,7 @@
 ### ⌨️ I'm trying to learn 👇 <br>
  <br>
 
-<img align="left" alt="python" width="26px" img src="https://image.flaticon.com/icons/png/512/919/919852.png">
+<code> <img align="left" alt="python" width="26px" img src="https://image.flaticon.com/icons/png/512/919/919852.png"> </code>
 <img align="left" alt="sql" width="26px" img src="https://image.flaticon.com/icons/png/512/2772/2772123.png">
 <img align="left" alt="vs" width="26px" img src="https://img.icons8.com/ios-filled/50/000000/visual-basic.png">
 <img align="left" alt="c#" width="26px" img src="https://image.flaticon.com/icons/png/512/381/381704.png">
