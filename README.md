@@ -10,7 +10,7 @@
 <a href ="https://twitter.com/CannGozler" target="blank"> <img align="left"  width="22px" alt=Twitter img src="https://cdn.iconscout.com/icon/free/png-256/twitter-241-721979.png">
 <a href="https://www.instagram.com/can.gozler/" target="blank"> <img align="left" alt="Cangozler" width="22px" img src="https://cdn.iconscout.com/icon/free/png-256/instagram-53-151118.png">
 <a href ="cangzlr23@gmail.com" target="blank"> <img align="left" alt="Cangozler" width="22px" img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png">
- <a href=" " target="blank"> <img align="left" width="22px" alt=Linkedn img src ="https://cdn.iconscout.com/icon/free/png-256/linkedin-2752135-2284952.png">
+ <a href="https://www.linkedin.com/in/can-g%C3%B6zler-6198b3200/ " target="blank"> <img align="left" width="22px" alt=Linkedn img src ="https://cdn.iconscout.com/icon/free/png-256/linkedin-2752135-2284952.png">
 <br>
  
 ### ⌨️ I'm trying to learn 👇 <br>
