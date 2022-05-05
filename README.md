@@ -9,7 +9,7 @@
 
 <a href ="https://twitter.com/CannGozler" target="blank"> <img align="left"  width="22px" alt=Twitter img src="https://cdn.iconscout.com/icon/free/png-256/twitter-241-721979.png">
 <a href="https://www.instagram.com/can.gozler/" target="blank"> <img align="left" alt="Cangozler" width="22px" img src="https://cdn.iconscout.com/icon/free/png-256/instagram-53-151118.png">
-<a href ="cangzlr23@gmail.com" target="blank"> <img align="left" alt="Cangozler" width="22px" img src="https://image.flaticon.com/icons/png/512/732/732200.png">
+<a href ="cangzlr23@gmail.com" target="blank"> <img align="left" alt="Cangozler" width="22px" img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png">
 <br>
  
 ### ⌨️ I'm trying to learn 👇 <br>
