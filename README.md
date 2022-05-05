@@ -7,7 +7,7 @@
 
 ### ☑️ My social media accounts
 
-<a href ="https://twitter.com/Anlam_Filozofu" target="blank"> <img align="left"  width="22px" alt=Twitter img src="https://image.flaticon.com/icons/png/512/733/733579.png">
+<a href ="https://twitter.com/CannGozler" target="blank"> <img align="left"  width="22px" alt=Twitter img src="https://image.flaticon.com/icons/png/512/733/733579.png">
 <a href="https://www.instagram.com/can.gozler/" target="blank"> <img align="left" alt="Cangozler" width="22px" img src="https://image.flaticon.com/icons/png/512/2111/2111463.png">
 <a href ="cangzlr23@gmail.com" target="blank"> <img align="left" alt="Cangozler" width="22px" img src="https://image.flaticon.com/icons/png/512/732/732200.png">
 <br>
