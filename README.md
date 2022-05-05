@@ -26,9 +26,9 @@
 <img align="left" alt="js" width="26px" img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img align="left" alt="html" width="26px" img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <img align="left" alt="css" width="26px" img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img align="left" alt="illustrator" width="26px" img src="https://image.flaticon.com/icons/png/512/552/552222.png">
-<img align="left" alt="photoshop " width="26px" img src="https://image.flaticon.com/icons/png/512/552/552220.png">
-<img align="left" alt=" after effects" width="26px" img src="https://image.flaticon.com/icons/png/512/552/552226.png"> <br> <br>
+<img align="left" alt="illustrator" width="26px" img src="https://cdn.iconscout.com/icon/free/png-256/adobe-illustrator-2522532-2132720.png">
+<img align="left" alt="photoshop " width="26px" img src="https://cdn.iconscout.com/icon/free/png-256/adobe-photoshop-2522533-2132721.png">
+<img align="left" alt=" after effects" width="26px" img src="https://cdn.iconscout.com/icon/free/png-256/adobe-after-effects-2522530-2132718.png"> <br> <br>
  <label>UUU SOME FANS </label> <br><br> 👀
 
  ![](https://komarev.com/ghpvc/?username=Cangozler&label=PROFILE+VIEWS) 
