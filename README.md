@@ -22,7 +22,7 @@
 <img align="left" width="26px" img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="ccc">
 <img align="left" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png" alt="PHP"/>
 <img align="left" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/java-22-225997.png" alt="Java"/>
-<img align="left" alt="c++" width="26px" img src="https://image.flaticon.com/icons/png/512/919/919841.png">
+<img align="left" alt="c++" width="26px" img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/c-plus-2065281-1746036.png">
 <img align="left" alt="js" width="26px" img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img align="left" alt="html" width="26px" img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <img align="left" alt="css" width="26px" img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
