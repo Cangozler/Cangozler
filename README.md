@@ -10,13 +10,14 @@
 <a href ="https://twitter.com/CannGozler" target="blank"> <img align="left"  width="22px" alt=Twitter img src="https://cdn.iconscout.com/icon/free/png-256/twitter-241-721979.png">
 <a href="https://www.instagram.com/can.gozler/" target="blank"> <img align="left" alt="Cangozler" width="22px" img src="https://cdn.iconscout.com/icon/free/png-256/instagram-53-151118.png">
 <a href ="cangzlr23@gmail.com" target="blank"> <img align="left" alt="Cangozler" width="22px" img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png">
+ <a href=" " target="blank"> <img align="left" width="22px" alt=Linkedn img src ="https://cdn.iconscout.com/icon/free/png-256/linkedin-2752135-2284952.png">
 <br>
  
 ### ⌨️ I'm trying to learn 👇 <br>
  <br>
 
-<img  align="left" alt="python" width="26px" img src="https://image.flaticon.com/icons/png/512/919/919852.png">
-<img align="left" alt="sql" width="26px" img src="https://image.flaticon.com/icons/png/512/2772/2772123.png">
+<img  align="left" alt="python" width="26px" img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png">
+<img align="left" alt="sql" width="26px" img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/sql-6-211154.png">
 <img align="left" alt="vs" width="26px" img src="https://img.icons8.com/ios-filled/50/000000/visual-basic.png">
 <img align="left" width="26px" img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="ccc">
 <img align="left" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png" alt="PHP"/>
