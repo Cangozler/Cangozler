@@ -7,7 +7,7 @@
 
 ### ☑️ My social media accounts
 
-<a href ="https://twitter.com/CannGozler" target="blank"> <img align="left"  width="22px" alt=Twitter img src="https://iconscout.com/icon/twitter-241">
+<a href ="https://twitter.com/CannGozler" target="blank"> <img align="left"  width="22px" alt=Twitter img src="<div class="preview_NfJLC"><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-241-721979.png" srcset="https://cdn.iconscout.com/icon/free/png-512/twitter-241-721979.png 2x" alt="Twitter Logo Icon" width="256"></div>">
 <a href="https://www.instagram.com/can.gozler/" target="blank"> <img align="left" alt="Cangozler" width="22px" img src="https://image.flaticon.com/icons/png/512/2111/2111463.png">
 <a href ="cangzlr23@gmail.com" target="blank"> <img align="left" alt="Cangozler" width="22px" img src="https://image.flaticon.com/icons/png/512/732/732200.png">
 <br>
